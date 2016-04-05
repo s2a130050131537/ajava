@@ -36,4 +36,22 @@ In this example we are going to make one html in which we will submit the user n
 ---------------------------------------
 This example illustrates to find current  access time of session  and last access time of session. Sessions are used to maintain state and user identity across multiple page requests. An implementation of HttpSession represents the server's view of the session. The server considers a session to be new until it has been joined by the client. Until the client joins the session, isNew() method returns true.
 
+![1](https://cloud.githubusercontent.com/assets/16952688/14291595/da68b200-fb81-11e5-993a-376fa014fc45.PNG)
+
+4.19
+![1](https://cloud.githubusercontent.com/assets/16952688/14291637/0d95f2c8-fb82-11e5-959f-6004d2705a42.PNG)
+![2](https://cloud.githubusercontent.com/assets/16952688/14291638/0d983722-fb82-11e5-81f4-b7e1e20837af.PNG)
+4.20
+![1](https://cloud.githubusercontent.com/assets/16952688/14291709/61cad886-fb82-11e5-8c6e-4d490e767fc9.PNG)
+4.21
+![2](https://cloud.githubusercontent.com/assets/16952688/14291755/a6fb052a-fb82-11e5-9743-078e6c4c8709.PNG)
+![3](https://cloud.githubusercontent.com/assets/16952688/14291753/a6f9a4c8-fb82-11e5-874c-fc7ecf902edc.PNG)
+![1](https://cloud.githubusercontent.com/assets/16952688/14291754/a6fa74de-fb82-11e5-91b3-6ed3a4203efc.PNG)
+4.22
+![1](https://cloud.githubusercontent.com/assets/16952688/14291816/e41b1f08-fb82-11e5-9e56-f9b93f530496.PNG)
+![2](https://cloud.githubusercontent.com/assets/16952688/14291814/e418a87c-fb82-11e5-8d12-80a7ce584cba.PNG)
+![3](https://cloud.githubusercontent.com/assets/16952688/14291815/e41a8a2a-fb82-11e5-9b64-2043a93d50c8.PNG)
+4.23
+![1](https://cloud.githubusercontent.com/assets/16952688/14291885/24f71cd4-fb83-11e5-9e61-a0a94f492f5f.PNG)
+![2](https://cloud.githubusercontent.com/assets/16952688/14291886/24f7a5c8-fb83-11e5-92f7-beb9ff9aaae2.PNG)
 
